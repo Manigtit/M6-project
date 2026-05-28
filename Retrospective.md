@@ -1,4 +1,3 @@
-
 # Retrospective: Bella Vista Restaurant
 
 Denne fil handler om, hvordan vi har arbejdet med projektet, hvad der fungerede godt, og hvad vi kunne have gjort bedre. Vi kommer også ind på vores samarbejde og brugen af GitHub, Git og andre værktøjer fra M6.
