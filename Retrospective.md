@@ -1,4 +1,5 @@
-# Retrospective: Burgerrestaurant Web-løsning
+
+# Retrospective: Bella Vista Restaurant
 
 Denne fil handler om, hvordan vi har arbejdet med projektet, hvad der fungerede godt, og hvad vi kunne have gjort bedre. Vi kommer også ind på vores samarbejde og brugen af GitHub, Git og andre værktøjer fra M6.
 
@@ -14,6 +15,7 @@ Vi brugte kolonnerne:
 
 - To Do
 - In Progress
+- Review
 - Done
 
 Det gjorde det nemmere at holde styr på arbejdet, især fordi vi ikke altid arbejdede på projektet på samme tidspunkt.
@@ -36,12 +38,7 @@ Det var lidt forvirrende i starten, fordi vi ikke var helt vant til at løse den
 
 ### Hvordan vi løste det
 
-For at undgå for mange konflikter begyndte vi at bruge branches mere. Det betød, at vi lavede en ny branch til forskellige dele af projektet, for eksempel:
-
-- Book bord
-- Menu
-- UML-dokumentation
-- CSS-styling
+For at undgå for mange konflikter begyndte vi at bruge branches mere. Det betød, at vi lavede en ny branch til forskellige dele af projektet, for eksempel menu, reservation, UML-dokumentation og CSS-styling.
 
 Når en del var færdig, kunne den merges ind i main. Det gjorde, at vi blev bedre til at snakke sammen om, hvem der arbejdede på hvad.
 
